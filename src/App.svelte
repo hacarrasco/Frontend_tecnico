@@ -116,7 +116,7 @@
     }
   }
 
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 350px) {
     .responsive {
       margin-left: 50px;
     }

@@ -56,10 +56,10 @@
       margin-left: 50px;
     }
 
-    @media screen and (min-width: 400px) {
+    @media screen and (min-width: 350px) {
     .todos {
-      width: 200px;
-      margin-left: 40px;
+      width: 300px;
+      margin-left: 20px;
     }
   }
     .btn1{
