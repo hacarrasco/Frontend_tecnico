@@ -55,6 +55,13 @@
       gap: 15px;
       margin-left: 50px;
     }
+
+    @media screen and (min-width: 400px) {
+    .todos {
+      width: 200px;
+      margin-left: 40px;
+    }
+  }
     .btn1{
       background-color: rgb(55, 65, 81);
       color: green;
